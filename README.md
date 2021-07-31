@@ -12,11 +12,9 @@ Technologies
 
 
 
-<a href=www.twitter.com/OmariKitula> ![image](https://user-images.githubusercontent.com/36799808/127741771-030ccb2f-dcb0-420b-9dbe-f516498482ee.png)</a>
+ 
 
-<!---
 
-![image](https://user-images.githubusercontent.com/36799808/127741486-901b3f70-7c2a-442a-abf7-7ad5f0d067aa.png)
 
 
 <!---
